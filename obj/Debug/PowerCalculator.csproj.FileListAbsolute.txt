@@ -1,0 +1,10 @@
+c:\users\christina\documents\visual studio 2012\Projects\PowerCalculator\PowerCalculator\bin\Debug\PowerCalculator.exe.config
+E:\School\CIS 359\PowerCalculator\PowerCalculator\bin\Debug\PowerCalculator.exe.config
+E:\School\CIS 359\PowerCalculator\PowerCalculator\bin\Debug\PowerCalculator.exe
+E:\School\CIS 359\PowerCalculator\PowerCalculator\bin\Debug\PowerCalculator.pdb
+E:\School\CIS 359\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.csprojResolveAssemblyReference.cache
+E:\School\CIS 359\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.Form1.resources
+E:\School\CIS 359\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.Properties.Resources.resources
+E:\School\CIS 359\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.csproj.GenerateResource.Cache
+E:\School\CIS 359\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.exe
+E:\School\CIS 359\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.pdb
